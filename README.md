@@ -11,7 +11,7 @@ Competencias
 
 ##
 
-![GitHub followers](https://img.shields.io/github/followers/daniel-990?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/daniel-990?style=social)](https://github.com/daniel-990/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielarango990/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xorroperro/)
