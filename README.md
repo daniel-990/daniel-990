@@ -1,6 +1,6 @@
 # HolaMundo 👋
 
-Mi nombre es Daniel Arango Villegas un autodidacta incansable con sed de conocimiento, me encantan los retos y todo el conocimiento que se obtiene de ellos.
+Mi nombre es Daniel Arango Villegas.
 
 Competencias
 
