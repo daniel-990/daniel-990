@@ -6,7 +6,7 @@ Competencias
 
 - Maquetación Html5 y Css3  
 - Javascript | Jquery | Nodejs  | Express 
-- PHP | MySQL | .Net & C# | Java
+- PHP | MySQL | SqlServer | Oracle | Java
 - GIT | SASS | Woocommerce | Wordpress con advanced custom fields | Shopify (ecommerce)
 
 ##
